@@ -5,3 +5,5 @@ STM32103C8_baseboard_V2.pdf is the control board for my navigation smart car pro
 GSM.pdf is a GSM module, made to enable upper computer to send text messages through this interface.
 
 Folder "Other hand soldered projects" contains pictures of electronic systems I had previously built with my teammates. 
+
+Thank you for your time.
