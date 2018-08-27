@@ -1,4 +1,4 @@
-The 4 PDF files are exports from my past PCB projects.
+The 4 PDF files are exports from my past PCB projects.Folder "Other hand soldered projects" contains pictures of electronic systems I had previously built with my teammates.
 
 STM32103C8_baseboard_V2.pdf is the control board for my navigation smart car project when doing the "Intel cup Embedded system design contest" in 2016. This control board has a two-channel motor driver, and a servo interface, for movement control; encoder interface for speed feedback; gyroscope interface for position sensing; and UART interface for Bluetooth communication. The board also integrated two power IC to convert battery power to suitable voltages for the various components on the smart car.
 
@@ -8,7 +8,5 @@ LightMedical_v1.pdf is an interst driven project, to test whether relatively hig
 
 GSM.pdf is a GSM module, made to enable upper computer to send text messages through this interface.
 
-
-Folder "Other hand soldered projects" contains pictures of electronic systems I had previously built with my teammates. 
 
 Thank you for your time.
